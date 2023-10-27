@@ -12,7 +12,7 @@ const Step1 = () => {
                 Delivering the products that your customers desire most, as frequently as possible.
             </Typography>
             <Typography variant="body1" gutterBottom>
-                Do you know what your customers need and do you keep working on your process?
+                The first set of questions is really simple. Still, if you answer all of them with a “yes”, you are already doing a lot of things right.
             </Typography>
 
             <Grid2 container spacing={2}>
