@@ -1,4 +1,5 @@
 {
+  "homepage": "http://hraffnalukka.github.io/dl-agile-assessment",
   "name": "dl-agile-assessment",
   "version": "0.1.0",
   "private": false,
@@ -51,6 +52,6 @@
   "devDependencies": {
     "typescript": "4.9.5",
     "gh-pages": "^6.0.0"
-  },
-  "homepage": "https://hraffnalukka.github.io/dl-agile-assessment/"
+  }
+  
 }
