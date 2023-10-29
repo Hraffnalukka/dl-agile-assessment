@@ -38,6 +38,11 @@
       "react-app/jest"
     ]
   },
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hraffnalukka/dl-agile-assessment.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
