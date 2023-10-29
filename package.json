@@ -32,11 +32,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build"
   },
-  "main": "src/index.js",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/hraffnalukka/dl-agile-assessment.git"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
